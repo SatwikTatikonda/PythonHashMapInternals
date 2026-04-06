@@ -30,7 +30,7 @@ class HashMapInternals:
                         entry.value=value
                         return
 
-        # this is poll scm test
+        # this is poll scm test - 1
         
         else:
             self.buckets[index]=[]
